@@ -1,3 +1,6 @@
 <h2>Interpolação de texto</h2>
+<img [src]="urlImage" width="300">
 <p>Nome : {{ nome  | uppercase }}</p>
 <p>Data nascimento :{{ dataNascimentoJoao | date:"dd/MM/yyy"  }}</p>
+
+<button (click)="mostrarData()" type="button"> Mostrar data da foto</button>
