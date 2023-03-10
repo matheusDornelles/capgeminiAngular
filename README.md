@@ -1,2 +1,1 @@
 # capgeminiAngular
-# Roteamentoangular
